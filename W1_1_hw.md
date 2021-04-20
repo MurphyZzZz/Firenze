@@ -1,5 +1,12 @@
 本文是针对文章《德州扑克规则介绍》的一些补充。http://sports.163.com/special/poker_rule/
 
+<font color='red'>**玩家总数**</font>：
+
+<font color='green'>**猜想**</font>：
+
+1. 总牌数：52张
+2. 玩家数目：最小玩家数2人，最大玩家数10人
+
 <font color='red'>**游戏阶段**</font>（一共分为5轮）：
 
 翻牌前（preflop），翻牌（flop/头三张公共牌），第二轮开牌（turn/第四张公共牌）和河牌（river/第五张公共牌）
